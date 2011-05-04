@@ -6,17 +6,17 @@
 !SLIDE
 # Kdo
 
-## pepe vs eskimag
+## pepe & eskimag
 
 !SLIDE bullets
 # Co
 
 * iOS
 * Web
-* MacOS X
+* Mac OS X
 
 !SLIDE bullets
 # Konkrétně
 
-* Dr.Ape
+* Dr.Ape | http://bit.ly/DrApe
 * SuitcaseType Foundry
