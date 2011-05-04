@@ -1,0 +1,12 @@
+{
+  "name": "Kmotr 2",
+  "description": "Druhé pokračování povídání o frameworku Padrino",
+  "sections": [
+    {"section":"title"},
+    {"section":"setup"},
+    {"section":"process"},
+    {"section":"toomega"},
+    {"section":"lupara"}
+  ]
+}
+
