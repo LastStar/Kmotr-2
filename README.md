@@ -8,4 +8,4 @@ pusť:
     > cd Kmotr-2
     > showoff serve
 
-nasměruj prohlížeč na [localhost:9090](localhost:9090).
+nasměruj prohlížeč na [localhost:9090](http://localhost:9090).
