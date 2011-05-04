@@ -6,17 +6,17 @@
 !SLIDE
 # Standartní CMS #
 
-## od Nesty ke generovaní PNG z OTF
+## Od Nesty ke generovaní PNG z OTF
 
 !SLIDE
 # Design
 
-## zákazníkův návrh
+## Zákazníkův návrh
 
 !SLIDE bullets
 # Agilita
 
-* precizní zadání
-* týdenní malé iterace
-* měsíční velká iterace
+* Precizní zadání
+* Týdenní malé iterace
+* Měsíční velká iterace
 

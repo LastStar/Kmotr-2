@@ -1,7 +1,7 @@
 !SLIDE
 # RSpec
 
-## veškeré low-level věci
+## Veškeré low-level věci
 
 !SLIDE bullets
 # Zápis
