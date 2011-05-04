@@ -3,13 +3,10 @@
 
 ## Projekt se Shortcat
 
-!SLIDE bullets
+!SLIDE
 # Standartní CMS #
 
-* Nesta
-* Padrino
-* Generování PNG
-* Úplná správa zákazníků
+## od Nesty ke generovaní PNG z OTF
 
 !SLIDE
 # Design
@@ -17,10 +14,9 @@
 ## zákazníkův návrh
 
 !SLIDE bullets
-# Agilita vztahu
+# Agilita
 
-* naprosto precizní zadání
-* nepřistupuje na programátorštinu
-* týdení malé iterace
+* precizní zadání
+* týdenní malé iterace
 * měsíční velká iterace
 

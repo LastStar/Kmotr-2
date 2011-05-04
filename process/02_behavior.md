@@ -1,21 +1,21 @@
 !SLIDE
 # RSpec
 
-## veškeré low level věci
+## veškeré low-level věci
 
 !SLIDE bullets
-# Gherkin
+# Zápis
 
 * Cucumber
-* nejdříve Webrat
-* nahrazen Capybarou
+* Nejdříve Webrat
+* Nahrazen Capybarou
 
 !SLIDE bullets
-# Driver
+# Ovladač
 
-* základní rack_test
-* nahradil Akephalos
-* na složitější JS Selenium
+* Základní rack_test
+* Nahradil Akephalos
+* Na složitější JS Selenium
 
 !SLIDE
 # Relish

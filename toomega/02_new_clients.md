@@ -1,8 +1,8 @@
 !SLIDE
-# Je to 100% můj nejlepší projekt
+# 100% projekt
 
 !SLIDE
-# Budu se už vždycky snažit o podobné klienty
+# Stal se benchmarkem
 
 !SLIDE
-# Stal se pro mne benchmarkem
+# Prototyp klienta budoucnosti

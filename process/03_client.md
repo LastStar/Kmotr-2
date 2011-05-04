@@ -1,5 +1,7 @@
 !SLIDE
-# Client nechtěl ani slyšet
+# Client
+
+## Nechtěl ani slyšet
 
 !SLIDE bullets
 # Scénáře

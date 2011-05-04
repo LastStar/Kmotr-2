@@ -1,10 +1,15 @@
 !SLIDE
 # Technologie
 
-## Během projektu jsem měnil a střídal
+## Neustálá změna
 
 !SLIDE
 # Technologie
 
-## Musíme běžet abychom zůstali na místě
+## Beze strachu
+
+!SLIDE
+# Technologie
+
+## Červená královna
 
